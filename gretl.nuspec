@@ -4,13 +4,13 @@
   <metadata>
     <!-- == PACKAGE SPECIFIC SECTION == -->
     <id>gretl</id>
-    <version>2020.200806</version>
+    <version>2020.201121</version>
     <owners>overage, gfe</owners>
     <!-- ============================== -->
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <title>Gretl</title>
-    <authors>_Allin Cottrell, Riccardo Lucchetti</authors>
+    <authors>Allin Cottrell, Riccardo Lucchetti</authors>
     <projectUrl>http://gretl.sourceforge.net/</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/overag3/gretl/gretl.png</iconUrl>
     <projectSourceUrl>https://sourceforge.net/p/gretl/git</projectSourceUrl>
